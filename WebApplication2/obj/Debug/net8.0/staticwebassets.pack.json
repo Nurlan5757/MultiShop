@@ -1,0 +1,237 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\wwwroot\\assets\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\wwwroot\\assets\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\wwwroot\\assets\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\wwwroot\\assets\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\wwwroot\\assets\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\wwwroot\\assets\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\wwwroot\\assets\\img\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\carousel-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\wwwroot\\assets\\img\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\carousel-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\wwwroot\\assets\\img\\carousel-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\carousel-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\wwwroot\\assets\\img\\cat-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cat-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\wwwroot\\assets\\img\\cat-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cat-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\wwwroot\\assets\\img\\cat-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cat-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\wwwroot\\assets\\img\\cat-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cat-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\wwwroot\\assets\\img\\offer-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\offer-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\wwwroot\\assets\\img\\offer-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\offer-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\wwwroot\\assets\\img\\payments.png",
+      "PackagePath": "staticwebassets\\assets\\img\\payments.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\wwwroot\\assets\\img\\product-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\wwwroot\\assets\\img\\product-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\wwwroot\\assets\\img\\product-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\wwwroot\\assets\\img\\product-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\wwwroot\\assets\\img\\product-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\wwwroot\\assets\\img\\product-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\wwwroot\\assets\\img\\product-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\wwwroot\\assets\\img\\product-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\wwwroot\\assets\\img\\product-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\wwwroot\\assets\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\user.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\wwwroot\\assets\\img\\vendor-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\vendor-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\wwwroot\\assets\\img\\vendor-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\vendor-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\wwwroot\\assets\\img\\vendor-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\vendor-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\wwwroot\\assets\\img\\vendor-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\vendor-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\wwwroot\\assets\\img\\vendor-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\vendor-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\wwwroot\\assets\\img\\vendor-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\vendor-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\wwwroot\\assets\\img\\vendor-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\vendor-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\wwwroot\\assets\\img\\vendor-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\vendor-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\wwwroot\\assets\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\wwwroot\\assets\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\wwwroot\\assets\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\wwwroot\\assets\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\wwwroot\\assets\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\wwwroot\\assets\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\wwwroot\\assets\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\wwwroot\\assets\\mail\\contact.js",
+      "PackagePath": "staticwebassets\\assets\\mail\\contact.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\wwwroot\\assets\\mail\\contact.php",
+      "PackagePath": "staticwebassets\\assets\\mail\\contact.php"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\wwwroot\\assets\\mail\\jqBootstrapValidation.min.js",
+      "PackagePath": "staticwebassets\\assets\\mail\\jqBootstrapValidation.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebApplication2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebApplication2.props",
+      "PackagePath": "build\\WebApplication2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication2.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebApplication2.props",
+      "PackagePath": "buildTransitive\\WebApplication2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
