@@ -1,41 +1,85 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\",
+  "WorkspaceRootPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FE4F9F67-D744-40D2-BD4B-68FD5C022E3B}|WebApplication2\\WebApplication2.csproj|C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\webapplication2\\views\\shop\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FE4F9F67-D744-40D2-BD4B-68FD5C022E3B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\shop\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FE4F9F67-D744-40D2-BD4B-68FD5C022E3B}|WebApplication2\\WebApplication2.csproj|C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\webapplication2\\dataacceslayer\\multishopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE4F9F67-D744-40D2-BD4B-68FD5C022E3B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\dataacceslayer\\multishopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE4F9F67-D744-40D2-BD4B-68FD5C022E3B}|WebApplication2\\WebApplication2.csproj|C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\webapplication2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FE4F9F67-D744-40D2-BD4B-68FD5C022E3B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE4F9F67-D744-40D2-BD4B-68FD5C022E3B}|WebApplication2\\WebApplication2.csproj|C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\webapplication2\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FE4F9F67-D744-40D2-BD4B-68FD5C022E3B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE4F9F67-D744-40D2-BD4B-68FD5C022E3B}|WebApplication2\\WebApplication2.csproj|C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\webapplication2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE4F9F67-D744-40D2-BD4B-68FD5C022E3B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE4F9F67-D744-40D2-BD4B-68FD5C022E3B}|WebApplication2\\WebApplication2.csproj|C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\webapplication2\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE4F9F67-D744-40D2-BD4B-68FD5C022E3B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE4F9F67-D744-40D2-BD4B-68FD5C022E3B}|WebApplication2\\WebApplication2.csproj|C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\webapplication2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{FE4F9F67-D744-40D2-BD4B-68FD5C022E3B}|WebApplication2\\WebApplication2.csproj|C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\webapplication2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FE4F9F67-D744-40D2-BD4B-68FD5C022E3B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE4F9F67-D744-40D2-BD4B-68FD5C022E3B}|WebApplication2\\WebApplication2.csproj|C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\webapplication2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{FE4F9F67-D744-40D2-BD4B-68FD5C022E3B}|WebApplication2\\WebApplication2.csproj|c:\\users\\hp\\onedrive\\desktop\\multishop\\webapplication2\\areas\\admin\\views\\slider\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE4F9F67-D744-40D2-BD4B-68FD5C022E3B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\areas\\admin\\views\\slider\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE4F9F67-D744-40D2-BD4B-68FD5C022E3B}|WebApplication2\\WebApplication2.csproj|C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\webapplication2\\areas\\admin\\views\\slider\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE4F9F67-D744-40D2-BD4B-68FD5C022E3B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\areas\\admin\\views\\slider\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE4F9F67-D744-40D2-BD4B-68FD5C022E3B}|WebApplication2\\WebApplication2.csproj|C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\webapplication2\\viewmodels\\sliders\\getslidervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE4F9F67-D744-40D2-BD4B-68FD5C022E3B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\viewmodels\\sliders\\getslidervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE4F9F67-D744-40D2-BD4B-68FD5C022E3B}|WebApplication2\\WebApplication2.csproj|C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\webapplication2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE4F9F67-D744-40D2-BD4B-68FD5C022E3B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE4F9F67-D744-40D2-BD4B-68FD5C022E3B}|WebApplication2\\WebApplication2.csproj|C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\webapplication2\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE4F9F67-D744-40D2-BD4B-68FD5C022E3B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE4F9F67-D744-40D2-BD4B-68FD5C022E3B}|WebApplication2\\WebApplication2.csproj|C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\webapplication2\\viewmodels\\sliders\\createslidervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE4F9F67-D744-40D2-BD4B-68FD5C022E3B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\viewmodels\\sliders\\createslidervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE4F9F67-D744-40D2-BD4B-68FD5C022E3B}|WebApplication2\\WebApplication2.csproj|C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\webapplication2\\viewmodels\\categories\\getcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE4F9F67-D744-40D2-BD4B-68FD5C022E3B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\viewmodels\\categories\\getcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE4F9F67-D744-40D2-BD4B-68FD5C022E3B}|WebApplication2\\WebApplication2.csproj|C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\webapplication2\\areas\\admin\\controller\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE4F9F67-D744-40D2-BD4B-68FD5C022E3B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\areas\\admin\\controller\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE4F9F67-D744-40D2-BD4B-68FD5C022E3B}|WebApplication2\\WebApplication2.csproj|C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\webapplication2\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE4F9F67-D744-40D2-BD4B-68FD5C022E3B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE4F9F67-D744-40D2-BD4B-68FD5C022E3B}|WebApplication2\\WebApplication2.csproj|C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\webapplication2\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE4F9F67-D744-40D2-BD4B-68FD5C022E3B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE4F9F67-D744-40D2-BD4B-68FD5C022E3B}|WebApplication2\\WebApplication2.csproj|C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\webapplication2\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE4F9F67-D744-40D2-BD4B-68FD5C022E3B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE4F9F67-D744-40D2-BD4B-68FD5C022E3B}|WebApplication2\\WebApplication2.csproj|C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\webapplication2\\views\\shop\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE4F9F67-D744-40D2-BD4B-68FD5C022E3B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\shop\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE4F9F67-D744-40D2-BD4B-68FD5C022E3B}|WebApplication2\\WebApplication2.csproj|C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\webapplication2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE4F9F67-D744-40D2-BD4B-68FD5C022E3B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE4F9F67-D744-40D2-BD4B-68FD5C022E3B}|WebApplication2\\WebApplication2.csproj|C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\webapplication2\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE4F9F67-D744-40D2-BD4B-68FD5C022E3B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE4F9F67-D744-40D2-BD4B-68FD5C022E3B}|WebApplication2\\WebApplication2.csproj|C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\webapplication2\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE4F9F67-D744-40D2-BD4B-68FD5C022E3B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE4F9F67-D744-40D2-BD4B-68FD5C022E3B}|WebApplication2\\WebApplication2.csproj|C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\webapplication2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FE4F9F67-D744-40D2-BD4B-68FD5C022E3B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE4F9F67-D744-40D2-BD4B-68FD5C022E3B}|WebApplication2\\WebApplication2.csproj|c:\\users\\ca.r214.13\\desktop\\ab106\\webapplication2\\webapplication2\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{FE4F9F67-D744-40D2-BD4B-68FD5C022E3B}|WebApplication2\\WebApplication2.csproj|C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\webapplication2\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FE4F9F67-D744-40D2-BD4B-68FD5C022E3B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE4F9F67-D744-40D2-BD4B-68FD5C022E3B}|WebApplication2\\WebApplication2.csproj|C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FE4F9F67-D744-40D2-BD4B-68FD5C022E3B}|WebApplication2\\WebApplication2.csproj|C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE4F9F67-D744-40D2-BD4B-68FD5C022E3B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -45,76 +89,79 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "DockedWidth": 151,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\Views\\Shop\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApplication2\\Views\\Shop\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\Views\\Shop\\Index.cshtml",
-              "RelativeToolTip": "WebApplication2\\Views\\Shop\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T08:44:25.512Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "WebApplication2\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T08:24:22.008Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Detail.cshtml",
-              "DocumentMoniker": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\Views\\Shop\\Detail.cshtml",
-              "RelativeDocumentMoniker": "WebApplication2\\Views\\Shop\\Detail.cshtml",
-              "ToolTip": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\Views\\Shop\\Detail.cshtml",
-              "RelativeToolTip": "WebApplication2\\Views\\Shop\\Detail.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T08:09:01.162Z",
+              "Title": "MultiShopContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\WebApplication2\\DataAccesLayer\\MultiShopContext.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\DataAccesLayer\\MultiShopContext.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\WebApplication2\\DataAccesLayer\\MultiShopContext.cs",
+              "RelativeToolTip": "WebApplication2\\DataAccesLayer\\MultiShopContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T23:12:39.412Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Contact.cshtml",
-              "DocumentMoniker": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\Views\\Home\\Contact.cshtml",
-              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Contact.cshtml",
-              "ToolTip": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\Views\\Home\\Contact.cshtml",
-              "RelativeToolTip": "WebApplication2\\Views\\Home\\Contact.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAiAAAA",
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\WebApplication2\\Areas\\Admin\\Views\\Slider\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Areas\\Admin\\Views\\Slider\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\WebApplication2\\Areas\\Admin\\Views\\Slider\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApplication2\\Areas\\Admin\\Views\\Slider\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T07:58:40.552Z",
+              "WhenOpened": "2024-05-10T00:24:35.398Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\WebApplication2\\Areas\\Admin\\Views\\Slider\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Areas\\Admin\\Views\\Slider\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\WebApplication2\\Areas\\Admin\\Views\\Slider\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApplication2\\Areas\\Admin\\Views\\Slider\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T00:24:52.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\WebApplication2\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\WebApplication2\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication2\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T00:22:53.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\WebApplication2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\WebApplication2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T07:45:10.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\WebApplication2\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "WebApplication2\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\WebApplication2\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "WebApplication2\\Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -123,54 +170,181 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "WebApplication2\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "WebApplication2\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAIEAAAAAAAAAAAAAAJ4AAABKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T07:50:27.89Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ShopController.cs",
-              "DocumentMoniker": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\Controllers\\ShopController.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\ShopController.cs",
-              "ToolTip": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\Controllers\\ShopController.cs",
-              "RelativeToolTip": "WebApplication2\\Controllers\\ShopController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Title": "GetSliderVM.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\WebApplication2\\ViewModels\\Sliders\\GetSliderVM.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\ViewModels\\Sliders\\GetSliderVM.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\WebApplication2\\ViewModels\\Sliders\\GetSliderVM.cs",
+              "RelativeToolTip": "WebApplication2\\ViewModels\\Sliders\\GetSliderVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T07:45:45.988Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T00:30:41.043Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "WebApplication2\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "DocumentIndex": 7,
+              "Title": "CreateSliderVM.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\WebApplication2\\ViewModels\\Sliders\\CreateSliderVM.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\ViewModels\\Sliders\\CreateSliderVM.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\WebApplication2\\ViewModels\\Sliders\\CreateSliderVM.cs",
+              "RelativeToolTip": "WebApplication2\\ViewModels\\Sliders\\CreateSliderVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T07:45:10.963Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T00:30:25.352Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "GetCategoryVM.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\WebApplication2\\ViewModels\\Categories\\GetCategoryVM.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\ViewModels\\Categories\\GetCategoryVM.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\WebApplication2\\ViewModels\\Categories\\GetCategoryVM.cs",
+              "RelativeToolTip": "WebApplication2\\ViewModels\\Categories\\GetCategoryVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T00:28:33.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\WebApplication2\\Areas\\Admin\\Controller\\SliderController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Areas\\Admin\\Controller\\SliderController.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\WebApplication2\\Areas\\Admin\\Controller\\SliderController.cs",
+              "RelativeToolTip": "WebApplication2\\Areas\\Admin\\Controller\\SliderController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T00:19:07.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\WebApplication2\\Models\\Slider.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\Slider.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\WebApplication2\\Models\\Slider.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\Slider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T00:14:08.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\WebApplication2\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\WebApplication2\\Models\\Category.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T00:12:43.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\WebApplication2\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\WebApplication2\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T00:12:10.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\WebApplication2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\WebApplication2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T08:24:22.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\WebApplication2\\Views\\Shop\\Detail.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Shop\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\WebApplication2\\Views\\Shop\\Detail.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Shop\\Detail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T08:09:01.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\WebApplication2\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\WebApplication2\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Shop\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T08:44:25.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\WebApplication2\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\WebApplication2\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T07:58:40.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAAAJ4AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T07:50:27.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\WebApplication2\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\WebApplication2\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\ShopController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T07:45:45.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\WebApplication2\\Program.cs",
               "RelativeDocumentMoniker": "WebApplication2\\Program.cs",
-              "ToolTip": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\WebApplication2\\Program.cs",
               "RelativeToolTip": "WebApplication2\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-07T07:43:38.345Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 249,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             }
           ]
         }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\WebApplication2.csproj": {}
+    "C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\WebApplication2\\WebApplication2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\WebApplication2.csproj": {
+    "C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\WebApplication2\\WebApplication2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+        "projectUniqueName": "C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\WebApplication2\\WebApplication2.csproj",
         "projectName": "WebApplication2",
-        "projectPath": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
-        "packagesPath": "C:\\Users\\ca.r214.13\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ca.r214.13\\Desktop\\AB106\\WebApplication2\\WebApplication2\\obj\\",
+        "projectPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\WebApplication2\\WebApplication2.csproj",
+        "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\MultiShop\\WebApplication2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ca.r214.13\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,6 +45,20 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[8.0.2, )"
